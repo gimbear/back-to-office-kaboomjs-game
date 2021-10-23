@@ -1,0 +1,62 @@
+{
+  "face1": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  },
+  "face2": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  },
+  "face3": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  },
+  "face4": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  },
+  "face5": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  },
+  "face6": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 64,
+    "sliceX": 2,
+    "anims": {
+      "sad": { "from": 1, "to": 1, "speed": 1, "loop": true }
+    }
+  }
+}
