@@ -1,5 +1,5 @@
 # Back to the Office
-A short memory game made for the course TDDD27.
+A short memory game made for the course TDDD23.
 
 Created using kaboomjs.
 
